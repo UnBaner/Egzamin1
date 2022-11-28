@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+
+.polecamy{
+    display: flex;
+    background-color: #29434E;
+    color: white;
+    text-align: center;
+    height: 70px;
+    width: 70%;
+}
+
+.Filmy{
+    display: flex;
+    background-color: #29434E;
+    color: white;
+    height: 70px;
+    width: 30%;
+}
+
+.bloki{
+    background-color: #B0BEC5;
+    height: 320px;
+}
+
+.footer{
+    background-color: #29434E;
+    color: white;
+}
+ body h3{
+     background-color: #546E7A;
+     color: white;
+     padding: 0px;
+ }
+
+ body h4{
+     text-align: center;
+     padding: 0px;
+ }
